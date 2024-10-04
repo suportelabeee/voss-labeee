@@ -9,12 +9,12 @@ st.markdown("""## Sobre a VOSS | About VOSS
 **PT/BR**
 A pesquisa VOSS (*Virtual Occupant Suvey System*) foi desenvolvida pelos pesquisadores do [LabEEE](https://labeee.ufsc.br/) [Zac Milioli](https://www.linkedin.com/in/zac-milioli/) e [Luiza de Castro](https://www.linkedin.com/in/arq-luiza-de-castro/), sob coordenação de [Renata De Vecchi](http://lattes.cnpq.br/0594650510499319) e [Roberto Lamberts](http://lattes.cnpq.br/0755959610406012).
 
-Clique aqui para acessar o [repositório](https://github.com/Zac-Milioli/qai-st-labeee) do aplicativo.
+Clique aqui para acessar o [repositório](https://github.com/suportelabeee/voss-labeee) do aplicativo.
 
 **EN**
 The *Virtual Occupant Survey System* (VOSS) has been developed by researchers from the Laboratory of Energy Efficiency in Building (LabEEE) at Federal University of Santa Catarina.
 
-Click here to access the app [repository](https://github.com/Zac-Milioli/qai-st-labeee).
+Click here to access the app [repository](https://github.com/suportelabeee/voss-labeee).
 
 ## Publicações | Publications
 
